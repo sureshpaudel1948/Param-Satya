@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="css/style.css">
+     <link rel="stylesheet" href="css/responsive.css">
+     <title>Param Satya - The Truth Prevails</title>
+</head>
+
+<body>
+   <nav class="navbar background h-nav">
+
+    <ul class="nav-list v-class">
+        <div class="logo"><img src="img/real_logo.png" alt="logo"></div>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+       </ul>
+
+    <div class="rightNav v-class">
+        <input type="text" name="search" id="search">
+        <button class="btn btn-sm">Search</button>
+    </div>
+
+   </nav>
+
+<section class="background firstSection">
+    <div class="box-main">
+        <div class="firstHalf">
+            <p class="text-big">The Ultimate Truth is here</p>
+            <p class="text-small">We as humans always have eagerness to be familiar with every aspects of the universe, at the end everyone wants to live a life full of freedom, joy and prosperity because the ultimate goal of this 'human life' is to get liberation that's why, we can say 'The Ultimate Truth is here'</p>
+        <div class="buttons">
+            <button class="btn" style="
+                padding: 8px, 20px; 
+                margin: 7px 0;
+                border: 2px solid white;
+                border-radius: 8px;
+               
+            ">Subscribe</button>
+            <button class="btn">Explore</button>
+        
+          </div>
+        </div>
+
+        <div class="secondHalf">
+            <img src="img/real_logo.png" alt="Logo Image" width="50%" height="50%">
+        </div>
+    </div>
+</section>
+
+<section class="section" id="services">
+    <div class="paras">
+    <p class="sectionTag text-big">Your answer to every question is here</p>
+    <p class="sectionSubTag text-small">Revealing the truth via various mind boggling facts, actual ancient history of the world, true essence of 'Sanatana Dharma' is our service to mankind.</p>
+    </div>
+    <div class="thumbnail">
+ <img src="img/know.png" alt="logo image" class="imgFluid" width="50%" height="50%">
+</div>
+</section>
+
+
+<section class="section section-left" id="about">
+    <div class="paras">
+    <p class="sectionTag text-big">About 'Param Satya'</p>
+    <p class="sectionSubTag text-small">Truth is mostly underestimated &amp; remains covered carrying a lot of mysteries within it, but when truth manifests itself then it's manifestation seems like an erupting lava ! That's why it is said, 'TRUTH PREVAILS'
+        and that truth is going to be revealed here in 'Param Satya'. As the word 'Param Satya' means 'Ultimate Truth' in Sanskrit. So, the main purpose of 'Param Satya' is to reveal ultimate truth among everyone.</p>
+    </div>
+    <div class="thumbnail">
+ <img src="img/real_logo.png" alt="logo image" class="imgFluid" width="50%" height="50%">
+</div>
+</section>
+
+
+<section class="contact" id="contact">
+   <h2 class="text-center">Contact Us</h2>
+   <div class="form">
+       <input class="form-input" type="text" name="Name" id="Name" placeholder="Enter Your Name">
+       <input class="form-input" type="Phone No." name="Phone No." id="Phone No." placeholder="Enter Your Phone No.">
+       <input class="form-input" type="Email" name="Email" id="Email" placeholder="Enter Your Email">
+       <textarea class="form-input" name="text" id="text" cols="30" rows="10" placeholder="Share your ideas &amp; thoughts here"></textarea>
+    <button class="btn btn-sm btn-dark">Submit</button>
+   </div>
+</section>
+
+
+<footer class="background">
+    <p class="text-footer">
+        Copyright © 2027 - www.paramsatya.in - All rights reserved 
+    </p>
+    </footer>
+
+  <script src="js/resp.js"></script>
+
+
+
+<iframe frameborder="0" scrolling="no" 
+style="background-color: transparent; 
+border: 0px; 
+display: none;">
+</iframe>
+<div id="GOOGLE_INPUT_CHEXT_FLAG" style="display: none;" 
+input="" input_stat="{&quot;tlang&quot;:true,&quot;tsbc&quot;:true,&quot;pun&quot;:true,&quot;mk&quot;:true,&quot;ss&quot;:true}">
+</div>
+</body>
+</html>
